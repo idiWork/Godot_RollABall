@@ -15,8 +15,8 @@ _global_script_class_icons={
 
 [application]
 
-config/name="idiWork 3D cars"
-run/main_scene="res://scenes/Main.tscn"
+config/name="idiWork - roll a ball"
+run/main_scene="res://scenes/RollABall.tscn"
 config/icon="res://icon.png"
 
 [rendering]

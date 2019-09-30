@@ -1,6 +1,6 @@
 # idiWork 
 
-## Cars 3D
+## Roll a ball
 
 Introduction to Godot 3D in GamesWeek
 
